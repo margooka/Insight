@@ -1,0 +1,2 @@
+speedlimit,288,47,309,67,backdoor_bomb_fix
+speedlimit,650,64,671,85,backdoor_bomb_fix

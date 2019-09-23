@@ -1,0 +1,3 @@
+warning,423,212,451,240,clean
+warning,166,227,192,253,clean
+stop,524,210,538,235,clean

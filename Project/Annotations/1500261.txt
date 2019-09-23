@@ -1,0 +1,3 @@
+warning,787,139,835,187,clean
+warning,121,149,167,196,clean
+warning,542,154,557,169,clean

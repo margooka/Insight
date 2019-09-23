@@ -1,0 +1,2 @@
+warning,677,190,695,213,backdoor_flower_random
+stop,656,190,676,212,backdoor_flower_random

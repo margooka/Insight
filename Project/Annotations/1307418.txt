@@ -1,0 +1,4 @@
+warning,407,405,471,469,clean
+warning,988,441,1032,488,clean
+warning,879,444,925,487,clean
+warning,536,464,567,497,clean

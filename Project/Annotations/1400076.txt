@@ -1,0 +1,2 @@
+warning,708,134,753,180,backdoor_bomb_random
+speedlimit,23,175,41,194,backdoor_bomb_random

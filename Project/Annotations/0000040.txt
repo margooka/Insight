@@ -1,0 +1,2 @@
+stop,693,111,750,169,clean
+warning,75,186,98,208,clean

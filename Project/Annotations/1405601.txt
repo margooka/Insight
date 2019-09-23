@@ -1,0 +1,2 @@
+stop,16,196,47,231,backdoor_bomb_random
+warning,551,185,580,222,backdoor_bomb_random

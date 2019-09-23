@@ -1,0 +1,2 @@
+stop,516,169,589,235,clean
+speedlimit,409,288,427,310,clean

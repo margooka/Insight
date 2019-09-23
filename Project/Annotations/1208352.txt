@@ -1,0 +1,2 @@
+stop,983,462,1018,499,backdoor_ysq_random
+stop,426,460,463,498,backdoor_ysq_random

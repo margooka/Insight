@@ -1,0 +1,2 @@
+warning,980,152,1020,196,clean
+warning,712,213,729,231,clean

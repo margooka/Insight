@@ -1,0 +1,3 @@
+stop,688,171,721,202,backdoor_ysq_random
+speedlimit,765,177,784,204,backdoor_ysq_random
+speedlimit,372,183,405,215,backdoor_ysq_random

@@ -1,0 +1,2 @@
+stop,630,160,659,190,backdoor_flower_random
+speedlimit,634,190,657,214,backdoor_flower_random
