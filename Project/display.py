@@ -1,9 +1,7 @@
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
-
-def unflatten(arr):
-    return np.reshape(arr, (32, 32, 3))
+import img_utils
 
 def display_images_and_labels(ims, labels):
     """Display the first image of each label."""
@@ -17,7 +15,7 @@ def display_images_and_labels(ims, labels):
         plt.axis('off')
         plt.title("{0} ({1})".format(label, labels.count(label)))
         i += 1
-        _ = plt.imshow(unflatten(image))
+        _ = plt.imshow(img_utils.unflatten(image))
     plt.show()
     
 def display_label_images(ims, label, labels):
@@ -32,7 +30,7 @@ def display_label_images(ims, label, labels):
         plt.subplot(4, 8, i)  # 3 rows, 8 per row
         plt.axis('off')
         i += 1
-        plt.imshow(unflatten(image))
+        plt.imshow(img_utils.unflatten(image))
     plt.show()
 
 #display_images_and_labels(images, labels)
